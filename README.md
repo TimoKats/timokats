@@ -6,4 +6,6 @@
   <li>🌐 Feel free to fork any of my projects, or visit my website at timokats.xyz</li>
 </ul>
 <br />
-<img width=80% height=350 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
+<center>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=timokats&layout=compact&card_width=1000" />
+</center>
