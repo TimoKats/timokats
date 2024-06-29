@@ -7,5 +7,5 @@
 </ul>
 <br />
 <center>
-  <img width=1000 src="https://github-readme-stats.vercel.app/api/top-langs/?username=timokats&layout=compact&card_width=875&hide_title=true" />
+  <img width=1000 src="https://github-readme-stats.vercel.app/api/top-langs/?username=timokats&layout=compact&card_width=875&hide_title=true&langs_count=10&hide=Jupyter%20Notebook,css"/>
 </center>
