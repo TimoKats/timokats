@@ -7,5 +7,5 @@
 </ul>
 <br />
 <center>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=timokats&layout=compact&card_width=1000" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=timokats&layout=compact&card_width=750" />
 </center>
