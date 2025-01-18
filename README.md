@@ -1,11 +1,4 @@
-<h3>Welcome to my GitHub</h3>
-<ul>
-  <li>👋 Hi, my name is Timo Kats. I'm a computer scientist from The Netherlands.</li>
-  <li>🧪 My main interests are data science and computational linguistics.</li>
-  <li>💻 My most used languages are Python and GO.</li>
-  <li>🌐 Feel free to fork any of my projects, or visit my website at timokats.xyz</li>
-</ul>
-<br />
-<center>
-  <img width=1000 src="https://github-readme-stats.vercel.app/api/top-langs/?username=timokats&layout=compact&card_width=875&hide_title=true&langs_count=10&hide=Jupyter%20Notebook,css"/>
-</center>
+<div align=center>
+  <img src="https://github.com/user-attachments/assets/4967fda4-7d6a-42a6-925b-6564505a0aa3" />
+  <a href="https://timokats.xyz">website</a> - <a href="https://orcid.org/0000-0003-1650-1814">orcid</a> - <a href="mailto:hello@timokats.xyz">email</a>
+</div>
